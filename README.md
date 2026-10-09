@@ -2,11 +2,11 @@
 Basic simulation of the Memory Mangement Unit. 
 
 ## Features
-- Free pages list - [ref](https://github.com/Yellowly/mmu-simulator-assignment/blob/main/src/my_mmu.cpp)
-- Pagewalk - [ref](https://github.com/Yellowly/mmu-simulator-assignment/blob/main/src/my_mmu.cpp)
-- mmap / munmap - [ref](https://github.com/Yellowly/mmu-simulator-assignment/blob/main/src/my_process.cpp)
-- Virtual address pointers - [ref](https://github.com/Yellowly/mmu-simulator-assignment/blob/main/include/my_mmu.h)
-- Process abstraction for interacting with the simulated mmu - [ref](https://github.com/Yellowly/mmu-simulator-assignment/blob/main/src/programs.cpp)
+- Free pages list - [ref](https://github.com/Yellowly/mmu-simulator-assignment/blob/master/src/my_mmu.cpp)
+- Pagewalk - [ref](https://github.com/Yellowly/mmu-simulator-assignment/blob/master/src/my_mmu.cpp)
+- mmap / munmap - [ref](https://github.com/Yellowly/mmu-simulator-assignment/blob/master/src/my_process.cpp)
+- Virtual address pointers - [ref](https://github.com/Yellowly/mmu-simulator-assignment/blob/master/include/my_mmu.h)
+- Process abstraction for interacting with the simulated mmu - [ref](https://github.com/Yellowly/mmu-simulator-assignment/blob/master/src/programs.cpp)
 
 ## Details
 - "Physical memory" is abstracted as a large continguous mmap'd region
